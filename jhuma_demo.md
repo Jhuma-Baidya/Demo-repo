@@ -1,3 +1,4 @@
 # jhuma_demo
 
-some description
+some descriptioncan
+I can learn Git hub
